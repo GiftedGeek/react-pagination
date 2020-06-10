@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,MACE,wBAAyB,CACzB,aACF,CACA,EACE,cACF","file":"main.1b92fdc8.chunk.css","sourcesContent":[".bgnd {\n  background-color: #222831;\n  color: #00adb5;\n}\na {\n  cursor: pointer;\n}\n"]}
